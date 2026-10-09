@@ -1,5 +1,7 @@
 # the-moot-calculator
 
+##This is a joke project don't take it seriously :)
+
 A small, dependency‑free calculator written in Python.
 
 It *looks* like a toy, but it’s deliberately built like a tiny “serious” tool:
